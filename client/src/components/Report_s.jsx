@@ -6,7 +6,7 @@ import { withBasename } from "../utils/params";
 
 export default class Report extends React.Component {
 
-    constructor(props) {
+    constructor(props) {hjgfcx
         super(props);
         this.state = {
             username: '',
